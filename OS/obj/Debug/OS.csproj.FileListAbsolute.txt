@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\bin\Debug\OS.exe.config
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\bin\Debug\OS.exe
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\bin\Debug\OS.pdb
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.Form1.resources
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.exe
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.pdb
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.boot.resources
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.login.resources
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\bin\Debug\OS.exe.manifest
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\bin\Debug\OS.application
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.exe.manifest
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.application
+C:\Users\LENOVO\Desktop\PRograMerZ\OS\OS\obj\Debug\OS.desktop.resources
